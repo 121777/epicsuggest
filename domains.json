@@ -2,6 +2,7 @@
   {
     "name": "wazahat.com",
     "logo": "images/wazahat.jpg",
+    "images": ["images/wazahat.jpg"],
     "marketplace_link": "https://wazahat.com",
     "price": "Make Offer",
     "tagline": "Urdu word for explain — brandable"
@@ -9,6 +10,7 @@
   {
     "name": "tastevilla.com",
     "logo": "images/tastevilla.jpg",
+    "images": ["images/tastevilla.jpg"],
     "marketplace_link": "https://tastevilla.com",
     "price": "Make offer",
     "tagline": "Premium domain for restaurant"
@@ -16,6 +18,7 @@
   {
     "name": "oilforhair.com",
     "logo": "images/oilforhair.jpg",
+    "images": ["images/oilforhair.jpg"],
     "marketplace_link": "https://oilforhair.com",
     "price": "Make offer",
     "tagline": "Premium domain for selling hair oils"
@@ -23,6 +26,7 @@
   {
     "name": "bakeexpert.com",
     "logo": "images/bakeexpert.jpg",
+    "images": ["images/bakeexpert.jpg"],
     "marketplace_link": "https://bakeexpert.com",
     "price": "Make offer",
     "tagline": "Premium domain for creating baking related content"
@@ -30,6 +34,7 @@
   {
     "name": "devops4u.com",
     "logo": "images/devops4u.jpg",
+    "images": ["images/devops4u.jpg"],
     "marketplace_link": "https://devops4u.com",
     "price": "Make offer",
     "tagline": "Premium domain for showing devops tutorials and services"
@@ -37,6 +42,7 @@
   {
     "name": "nutritionhospital.com",
     "logo": "images/nutritionhospital.jpg",
+    "images": ["images/nutritionhospital.jpg"],
     "marketplace_link": "https://nutritionhospital.com",
     "price": "Make offer",
     "tagline": "Premium domain for selling nutritions related services"
@@ -44,6 +50,7 @@
   {
     "name": "bagvilla.com",
     "logo": "images/bagvilla.jpg",
+    "images": ["images/bagvilla.jpg"],
     "marketplace_link": "https://bagvilla.com",
     "price": "Make offer",
     "tagline": "Premium domain for semi luxury bags"
@@ -51,6 +58,7 @@
   {
     "name": "peacebakery.com",
     "logo": "images/peacebakery.jpg",
+    "images": ["images/peacebakery.jpg"],
     "marketplace_link": "https://peacebakery.com",
     "price": "Make offer",
     "tagline": "Premium domain for creating a bakery."
